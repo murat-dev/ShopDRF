@@ -1,0 +1,17 @@
+Django==3.1
+Pillow
+psycopg2-binary==2.8.5
+djangorestframework==3.11
+djangorestframework-simplejwt
+python-decouple==3.4
+drf-yasg
+celery
+redis
+django-phonenumber-field==5.0.0
+phonenumbers==8.12.19
+django-modeltranslation
+pyTelegramBotApi==3.7.1
+BeautifulSoup4
+requests
+lxml
+django-filter
